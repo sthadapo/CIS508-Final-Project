@@ -77,5 +77,5 @@ Telco_customer_churn.csv   # Dataset
 
 
 ### 🔗 Deployed Streamlit App
-https://cis508-final-project-vpp63wxf34cxpjvyjec3lt.streamlit.app
+cis508-final-project-vpp63wxf34cxpjyvjec3lt.streamlit.app
 
