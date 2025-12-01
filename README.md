@@ -4,12 +4,12 @@ This project predicts whether a telecom customer is likely to cancel their servi
 I built the model in Databricks, tracked everything with MLflow, and created an interactive Streamlit app so anyone can test the model.
 
 
-Project Goal
+- Project Goal
 
 The goal is to help a business understand which customers are at high risk of churn so they can take action early (discounts, offers, outreach, etc.).
 
 
-What I Did
+- What I Did
 
 Cleaned and prepared the Telco Customer Churn dataset
 
@@ -24,7 +24,7 @@ Chose the best model and saved it
 Built a Streamlit web app to make predictions
 
 
-Best Model
+- Best Model
 
 The best model was a Logistic Regression pipeline.
 
@@ -41,7 +41,7 @@ Recall: ~0.54
 It performed the most balanced overall and works well for business decisions.
 
 
-Streamlit App
+- Streamlit App
 
 The app asks for a few customer details:
 
@@ -76,7 +76,7 @@ conda.yaml            # Optional environment file
 Telco_customer_churn.csv   # Dataset
 
 
-Final Submission Includes
+- Final Submission Includes
 
 Streamlit app
 
