@@ -82,6 +82,10 @@ Streamlit app
 
 Video presentation
 
+### 🔗 Deployed Streamlit App
+https://cis508-final-project-vpp63wxf34cxpjvyjec3lt.streamlit.app
+
+
 Slide deck
 
 MLflow experiment link
